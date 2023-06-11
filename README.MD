@@ -1,0 +1,1 @@
+Repo para salvar os exercícios do curso **Node.js: criptografia e tokens JWT** da formação **Autenticação, testes e segurança em Node.js** da **Alura**.
